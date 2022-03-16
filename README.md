@@ -5,7 +5,8 @@ Bicing is Barcelona's public cycling system, equipped with several parking lots 
 ## Dataset
 Both taken from Barcelona's open data portal:
 - [Bicing stations](https://opendata-ajuntament.barcelona.cat/data/en/dataset/bicing) 
-- [Bicing usage](https://opendata-ajuntament.barcelona.cat/data/en/dataset/us-del-servei-bicing) 
+- [Bicing usage](https://opendata-ajuntament.barcelona.cat/data/en/dataset/us-del-servei-bicing)
+
 Datasets contain records (5min spans) of bicycles currently being used in the city and slots and bicycles available in each of the parking lots. 
 ## Useful References
 Probably useful papers:
