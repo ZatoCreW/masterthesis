@@ -3,11 +3,10 @@ Work in progress...
 ## Problem Statement
 Bicing is Barcelona's public cycling system, equipped with several parking lots and bikes in them to be used by subscribers of this service. One of the main issues with the service is getting to a parking lot without any available bicycles or trying to park in a lot without any free slots. I intend to predict in advance these situations which could be used to improve the service management. Ideally, I would like to solve this problem using Graph Neural Networks but simpler models will also be tried out.
 ## Dataset
-Dataset:
+Both taken from Barcelona's open data portal:
 - [Bicing stations](https://opendata-ajuntament.barcelona.cat/data/en/dataset/bicing) 
 - [Bicing usage](https://opendata-ajuntament.barcelona.cat/data/en/dataset/us-del-servei-bicing) 
-
-Datasets contains update records (every 5 minutes) of bicycles currently being used in the city and slots and bicycles availability in each of the parking lots. 
+Datasets contain records (5min spans) of bicycles currently being used in the city and slots and bicycles available in each of the parking lots. 
 ## Useful References
 Probably useful papers:
 - [GNN's for Traffic Forecasting: A Survey](https://arxiv.org/pdf/2101.11174.pdf): nice review of models used un traffic forecasting
