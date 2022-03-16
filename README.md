@@ -9,7 +9,9 @@ Both taken from Barcelona's open data portal:
 
 Datasets contain records (5min spans) of bicycles currently being used in the city and slots and bicycles available in each of the parking lots. 
 ## Useful References
-Probably useful papers:
+Probably useful materials:
+- [A Gentle Intro to GNNs](https://distill.pub/2021/gnn-intro/): by Google researchers
+- [Crash Course on GNNs](https://gnn.seas.upenn.edu/): by UPenn
 - [GNN's for Traffic Forecasting: A Survey](https://arxiv.org/pdf/2101.11174.pdf): nice review of models used un traffic forecasting
 - [BD for Traffic Estimation and Prediction: Data and Tools](https://arxiv.org/pdf/2103.11824.pdf): nice review of datasets used in traffic prediction
 - [DL Framework for Traffic Forecasting](https://arxiv.org/pdf/1709.04875v4.pdf)
