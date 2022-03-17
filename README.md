@@ -14,8 +14,7 @@ Probably useful materials:
 - [Crash Course on GNNs](https://gnn.seas.upenn.edu/): by UPenn
 - [GNN's for Traffic Forecasting: A Survey](https://arxiv.org/pdf/2101.11174.pdf): nice review of models used un traffic forecasting
 - [BD for Traffic Estimation and Prediction: Data and Tools](https://arxiv.org/pdf/2103.11824.pdf): nice review of datasets used in traffic prediction
-- [DL Framework for Traffic Forecasting](https://arxiv.org/pdf/1709.04875v4.pdf)
-- [Scalable Deep Traffic Flow Neural Networks for Urban Traffic Congestion Prediction](https://arxiv.org/pdf/1703.01006.pdf): the famework used in this paper might be useful.
+- [Bike Flow Prediction with multi-GCN](https://arxiv.org/pdf/1807.10934.pdf): very much relevant, describes different tasks that can be done and proposes methods for creating a GNN structure from a bike sharing system with stations.
 
 ## Draft Notebook
 [Colab Notebook](https://colab.research.google.com/drive/17Ocn0rekE28NoKE5dWPv_fk7LQdD-Yq1?usp=sharing) if you want to see my progress
