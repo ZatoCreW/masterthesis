@@ -17,4 +17,4 @@ Probably useful materials:
 - [Understanding Bike-Sharing Systems using Data Mining: Exploring Activity Patterns](https://www.sciencedirect.com/science/article/pii/S1877042811014388/pdf?md5=e51cbc4251b2c0c8977fd02760c3d511&pid=1-s2.0-S1877042811014388-main.pdf)
 
 ## Colab Notebook
-[Colab Notebook](https://colab.research.google.com/drive/17Ocn0rekE28NoKE5dWPv_fk7LQdD-Yq1?usp=sharing) to see the code implementation of the thesis
+[Colab Notebook](https://colab.research.google.com/drive/11uyajRq6DKCaBMZPJAALGJ6lsgVzbfth?usp=sharing) to see the code implementation of the thesis
